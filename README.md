@@ -182,15 +182,11 @@ To update the module's documentation run `make doc`
 
 We welcome contributions from the community! Whether it's reporting a bug, suggesting a new feature, or submitting a pull request, your input is highly valued.
 
-For more information, please see our contribution [guidelines](./CONTRIBUTING.md). <br><br>
-
-<a href="https://github.com/cloudnationhq/terraform-azure-aa/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cloudnationhq/terraform-azure-aa" />
-</a>
+For more information, please see our contribution [guidelines](./CONTRIBUTING.md).
 
 ## License
 
-MIT Licensed. See [LICENSE](./LICENSE) for full details.
+MIT Licensed. See [LICENSE](https://github.com/codectl/terraform-azure-aa/blob/main/LICENSE) for full details.
 
 ## References
 
